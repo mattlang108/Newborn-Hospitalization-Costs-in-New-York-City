@@ -15,7 +15,10 @@ The analysis was designed around four main questions:
 
 ## Dataset
 
-The project uses the **2024 SPARCS hospital discharge dataset** filtered to **newborn inpatient cases in New York City facilities**. The data includes clinical, demographic, and hospital system variables relevant to newborn hospitalization outcomes and cost. :contentReference[oaicite:1]{index=1}
+The project uses the **2024 SPARCS hospital discharge dataset** filtered to **newborn inpatient cases in New York City facilities**. The data includes clinical, demographic, and hospital system variables relevant to newborn hospitalization outcomes and cost. 
+
+Dataset can be found [HERE](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/sf4k-39ay/data_preview).
+
 
 ### Example variables used
 - Length of Stay
